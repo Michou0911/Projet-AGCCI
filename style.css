@@ -1,0 +1,36 @@
+div{
+    text-align: center;
+}
+h1{
+    color:darkblue;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p{
+    text-align: center;
+}
+h2{
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 200%;
+}
+h3{
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 200%;
+}
+body{
+    background-color: mistyrose;
+}
+h4{
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 200%;
+}
